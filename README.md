@@ -32,11 +32,11 @@ Este proyecto Java con Spring Boot permite consultar y analizar libros del catá
     ./mvnw spring-boot:run
    
 📌 Ejemplo de uso (consola)
+```
 Top 10 libros mas descargados:
 PRIDE AND PREJUDICE
 A CHRISTMAS CAROL
 FRANKENSTEIN
-...
 
 Ingrese el nombre del libro que desea buscar: dracula
 Libro encontrado
@@ -48,5 +48,5 @@ Cantidad media de descargas: 35000.4
 Cantidad maxima de descargas: 99000.0
 Cantidad minima de descargas: 12300.0
 Cantidad de registros evaluados: 32
-
+```
 
