@@ -24,7 +24,7 @@ Este proyecto Java con Spring Boot permite consultar y analizar libros del catá
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/gutendex-libros.git
+   git clone https://github.com/GutierrezCesar/gutendex-books-api.git
    cd gutendex-libros
 
 2. Asegúrate de tener configurado JDK 17 o superior.
